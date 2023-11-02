@@ -4,6 +4,8 @@
 /*=====================
 	Simulación
 =======================*/
+
+global path "".
 //Preparando Stata
 set obs 900
 
